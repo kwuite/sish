@@ -2,3 +2,5 @@ deploy/
 dist/
 sish
 __debug_bin
+.env
+gosec.json
